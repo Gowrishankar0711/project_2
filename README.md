@@ -1,13 +1,13 @@
 # project_2
 Luxury Housing Sales Analysis – Bengaluru
 
-📊 Luxury Housing Sales Analysis – Power BI Dashboard
+Luxury Housing Sales Analysis – Power BI Dashboard
 
-📌 Project Overview
+Project Overview
 
 This Power BI dashboard analyzes luxury housing sales in Bangalore, focusing on revenue distribution across builders, micro-markets, buyer types, sales channels, and possession status. The objective is to derive business-ready insights to support strategic decision-making for developers, investors, and sales teams.
 
-🎯 Key Objectives
+Key Objectives
 
 Identify top-performing builders by revenue
 
@@ -21,7 +21,7 @@ Compare sales channel performance
 
 Assess quarterly revenue stability
 
-📈 Dashboard Structure
+Dashboard Structure
 Page 1: Overview & Market Insights
 
 Total Sales Value (KPI)
@@ -50,7 +50,7 @@ Quarterly revenue contribution by builder
 
 Drill-through functionality for focused analysis
 
-🧠 Key Insights
+Key Insights
 
 Total sales value exceeds ₹2,300 Cr, indicating a strong luxury market
 
@@ -62,7 +62,7 @@ Balanced primary and secondary transactions reflect a mature resale market
 
 Stable quarterly performance indicates predictable revenue flows
 
-🛠 Tools & Technologies
+Tools & Technologies
 
 Microsoft Power BI Desktop
 
@@ -72,7 +72,7 @@ Data Modeling & Interactive Filters
 
 Drill-through & Slicers
 
-📂 Dataset Features
+Dataset Features
 
 Property details (size, configuration, possession status)
 
@@ -82,6 +82,6 @@ Location-based infrastructure and connectivity scores
 
 Revenue and quarterly purchase data
 
-✅ Outcome
+Outcome
 
 The dashboard provides a clean, minimalistic, and executive-ready view of Bangalore’s luxury housing market, enabling stakeholders to make data-driven strategic decisions.
